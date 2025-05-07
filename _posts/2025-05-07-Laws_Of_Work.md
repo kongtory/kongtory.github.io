@@ -2,6 +2,7 @@
 title: Laws Of Work
 date: 2025-05-07
 categories: [Life]
+author: kongtory
 ---
 
 ### Kidlin’s Law
